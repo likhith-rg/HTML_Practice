@@ -8,7 +8,8 @@ This is a basic webpage demonstrating the use of HTML structure, headings, parag
 
 ### Screenshot of the Basic Webpage:
 
-![Basic Webpage]("C:\Users\Apty_Guest\Pictures\Screenshots\Screenshot 2024-11-19 160506.png")
+<img width="958" alt="Screenshot 2024-11-19 160506" src="https://github.com/user-attachments/assets/3f78d768-3e48-47d5-a83b-0632c46e5245">
+
 
 **Features:**
 - Title and headings (`<h1>`, `<h2>`, etc.)
@@ -21,7 +22,8 @@ This page lists my favorite movies along with their images.
 
 ### Screenshot of the Movie List Page:
 
-![Movie List]()  <!-- Replace with your image pa"C:\Users\Apty_Guest\Pictures\Screenshots\Screenshot 2024-11-19 160841.png"th -->
+<img width="957" alt="Screenshot 2024-11-19 160841" src="https://github.com/user-attachments/assets/1597a413-9d6a-49e8-9112-6e007f1b8a00">
+
 
 **Features:**
 - Unordered list (`<ul>`) of movies
@@ -33,7 +35,9 @@ This page showcases a timetable in a table format and includes a simple login fo
 
 ### Screenshot of the Timetable and Login Form Page:
 
-![Timetable and Login Form]("C:\Users\Apty_Guest\Pictures\Screenshots\Screenshot 2024-11-19 161306.png") 
+<img width="931" alt="Screenshot 2024-11-19 161306" src="https://github.com/user-attachments/assets/0585db74-2d6f-4f64-bfec-daf8ae34f33f">
+
+
 
 **Features:**
 - A table (`<table>`) displaying a class timetable with rows and columns
