@@ -3,23 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Media Example</title>
+    <title>Media Example with Captions</title>
 </head>
 <body>
-    <h1>Video and Audio Example</h1>
+    <h1>Video and Audio Example with Captions</h1>
 
-    <h2>Video Example</h2>
-    <video controls>
-        <source src="C:\Users\Apty_Guest\Pictures\Camera Roll\WIN_20241120_18_44_50_Pro.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-    <p>Video Description: This is a sample video showing something interesting.</p>
+    <!-- YouTube Video Example with Captions -->
+    <h2>YouTube Video Example with Captions</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ts0mU1_fQVA?cc_load_policy=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p>YouTube Video Description: This is a sample embedded YouTube video with captions available.</p>
 
-    <h2>Audio Example</h2>
+    <!-- Audio Example with Captions -->
+    <h2>Audio Example with Captions</h2>
     <audio controls>
         <source src="audio.mp3" type="audio/mp3">
+        <track src="audio_captions_en.vtt" kind="captions" srclang="en" label="English">
         Your browser does not support the audio element.
     </audio>
-    <p>Audio Description: This is a sample audio clip.</p>
+    <p>Audio Description: This is a sample audio clip with captions. The transcript is displayed below:</p>
+
 </body>
 </html>
