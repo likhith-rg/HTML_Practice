@@ -43,6 +43,52 @@ This page showcases a timetable in a table format and includes a simple login fo
 - A table (`<table>`) displaying a class timetable with rows and columns
 - A simple login form with `<input>` fields for username and password, and a submit `<button>`
 
+Day-2:
+
+# Web Development Tasks  
+
+This repository contains solutions for the following tasks:  
+
+## 1. Webpage Using Semantic Elements (Blog)  
+- Structured content using `<header>`, `<article>`, `<section>`, `<footer>`.  
+
+**Screenshot:**  
+![Blog Screenshot](<img width="953" alt="image" src="https://github.com/user-attachments/assets/b9ef3d31-160a-44a5-8b1c-ecfe3955a4d4">
+)  
+
+## 2. Registration Form with Validations  
+- Created a form with input types: text, email, tel, date, password.  
+- Added `required`, `pattern`, `min`, `max` attributes for validation.  
+
+**Screenshot:**  
+![Form Screenshot](<img width="940" alt="Screenshot 2024-11-20 150642" src="https://github.com/user-attachments/assets/f3d3e186-c2e2-4243-a96d-46891017700b">
+)  
+
+## 3. Multi-Page Website with Navigation  
+- Built Home, About, and Contact pages with working navigation links.  
+
+**Screenshots:**  
+- ![Home Page](<img width="953" alt="Screenshot 2024-11-20 150803" src="https://github.com/user-attachments/assets/0f1c542f-bee5-4bac-bc2c-02ef6170af31">
+)    
+
+## 4. Embedded Video and Audio  
+- Embedded video and audio with captions using `<video>` and `<audio>`.  
+
+**Screenshot:**  
+![Media Screenshot](<img width="952" alt="Screenshot 2024-11-20 150719" src="https://github.com/user-attachments/assets/a28a1425-717f-4e93-b4fa-c72a49aea49c">
+)  
+
+## How to Use  
+- Clone/download the repository.  
+- Open the files in a browser:  
+  - `blog.html` → Blog  
+  - `registration.html` → Form  
+  - `index.html` → Home (with navigation to other pages)  
+  - `media.html` → Video/Audio  
+
+Replace `path/to/...` with the actual paths to your screenshots before sharing.  
+
+
 ## How to View the Pages
 
 1. Clone this repository to your local machine:
