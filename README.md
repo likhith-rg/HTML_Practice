@@ -75,7 +75,8 @@ This repository contains solutions for the following tasks:
 - Embedded video and audio with captions using `<video>` and `<audio>`.  
 
 **Screenshot:**  
-![Media Screenshot](<img width="952" alt="Screenshot 2024-11-20 150719" src="https://github.com/user-attachments/assets/a28a1425-717f-4e93-b4fa-c72a49aea49c">
+![Media Screenshot](<img width="952" alt="Screenshot 2024-11-20 150719" src="<img width="946" alt="image" src="https://github.com/user-attachments/assets/a3efdbfa-30ad-4695-bdf0-2e6ecef66fe0">
+">
 )  
 
 ## How to Use  
