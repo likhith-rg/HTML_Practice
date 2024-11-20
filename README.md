@@ -53,7 +53,7 @@ This repository contains solutions for the following tasks:
 - Structured content using `<header>`, `<article>`, `<section>`, `<footer>`.  
 
 **Screenshot:**  
-![Blog Screenshot](<img width="953" alt="image" src="https://github.com/user-attachments/assets/b9ef3d31-160a-44a5-8b1c-ecfe3955a4d4">
+(<img width="953" alt="image" src="https://github.com/user-attachments/assets/b9ef3d31-160a-44a5-8b1c-ecfe3955a4d4">
 )  
 
 ## 2. Registration Form with Validations  
@@ -61,14 +61,14 @@ This repository contains solutions for the following tasks:
 - Added `required`, `pattern`, `min`, `max` attributes for validation.  
 
 **Screenshot:**  
-![Form Screenshot](<img width="940" alt="Screenshot 2024-11-20 150642" src="https://github.com/user-attachments/assets/f3d3e186-c2e2-4243-a96d-46891017700b">
+(<img width="940" alt="Screenshot 2024-11-20 150642" src="https://github.com/user-attachments/assets/f3d3e186-c2e2-4243-a96d-46891017700b">
 )  
 
 ## 3. Multi-Page Website with Navigation  
 - Built Home, About, and Contact pages with working navigation links.  
 
 **Screenshots:**  
-- ![Home Page](<img width="953" alt="Screenshot 2024-11-20 150803" src="https://github.com/user-attachments/assets/0f1c542f-bee5-4bac-bc2c-02ef6170af31">
+(<img width="953" alt="Screenshot 2024-11-20 150803" src="https://github.com/user-attachments/assets/0f1c542f-bee5-4bac-bc2c-02ef6170af31">
 )    
 
 ## 4. Embedded Video and Audio  
