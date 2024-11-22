@@ -89,9 +89,21 @@ This repository contains solutions for the following tasks:
 
 Replace `path/to/...` with the actual paths to your screenshots before sharing.  
 
+## Day-4 SS
+### T1
 
-## How to View the Pages
+<img width="935" alt="Screenshot 2024-11-22 202326" src="https://github.com/user-attachments/assets/32d24b0a-965f-4004-ba59-c7389920ccf8">
 
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/likhith-rg/HTML_Practice.git
+<img width="596" alt="Screenshot 2024-11-22 202341" src="https://github.com/user-attachments/assets/fbeda54c-a713-49bd-90fa-72b1f5b17a4b">
+
+<img width="931" alt="Screenshot 2024-11-22 202514" src="https://github.com/user-attachments/assets/c5193abd-29f2-464f-ac4c-b61dab467662">
+
+
+### T2
+
+<img width="919" alt="Screenshot 2024-11-22 203932" src="https://github.com/user-attachments/assets/5dc4064c-8884-4a1f-852b-491989e3e093">
+
+<img width="924" alt="Screenshot 2024-11-22 203950" src="https://github.com/user-attachments/assets/12cc60b4-5d3e-406a-af6f-00a815e10d37">
+
+
+<img width="919" alt="Screenshot 2024-11-22 204005" src="https://github.com/user-attachments/assets/183c6f16-409e-424e-a8e5-f62bfe01807c">
